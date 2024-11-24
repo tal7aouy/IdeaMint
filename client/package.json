@@ -11,10 +11,13 @@
   "dependencies": {
     "@langchain/anthropic": "^0.3.8",
     "@langchain/core": "^0.3.18",
+    "axios": "^1.7.7",
     "dotenv": "^16.4.5",
     "html2pdf.js": "^0.10.2",
     "langchain": "^0.3.6",
-    "vue": "^3.5.12"
+    "pinia": "^2.2.6",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
