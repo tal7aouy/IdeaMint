@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.2.0",
     "@langchain/anthropic": "^0.3.8",
     "@langchain/core": "^0.3.18",
     "axios": "^1.7.7",
